@@ -1,7 +1,7 @@
 from . import __version__ as app_version
 
-app_name = "erpnext_thailand"
-app_title = "ERPNext Thailand"
+app_name = "thailand_localization"
+app_title = "Thailand Localization"
 app_publisher = "Ecosoft"
 app_description = "Thailand Localization"
 app_email = "kittiu@ecosoft.co.th"
